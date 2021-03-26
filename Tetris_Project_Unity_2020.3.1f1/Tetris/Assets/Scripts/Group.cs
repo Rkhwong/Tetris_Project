@@ -5,16 +5,13 @@ using UnityEngine.UI;
 
 public class Group : MonoBehaviour
 {
-    public Text gameOverText;
-    
+   
     void Start()
     {
-        gameOverText.gameObject.SetActive(false);
         // Default position not valid? Then it's game over
         if (!isValidGridPos())
         {
             Debug.Log("GAME OVER");
-            gameOverText.gameObject.SetActive(true);
             Destroy(gameObject);
             
         }
