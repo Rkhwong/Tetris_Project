@@ -12,7 +12,5 @@ Following : https://noobtuts.com/unity/2d-tetris-game/ and https://www.youtube.c
   - Create Score
   - Create HUD
 
-# Make Tetrominos
-
 
 Last Edit > 26/03/2021
