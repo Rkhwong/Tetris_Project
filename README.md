@@ -1,7 +1,7 @@
 # Tetris_Project
 Learning Unity Tool Dev an Simple Tetris Game
 
-Following : https://noobtuts.com/unity/2d-tetris-game/ , Tutorial , with some twist, like own Sprites and better interface.
+Following : https://noobtuts.com/unity/2d-tetris-game/ and https://www.youtube.com/watch?v=T5P8ohdxDjo&ab_channel=Valem, Tutorial , with some twist, like own Sprites and better interface.
 
 ### Project Objectives
   - Make Tetrominos
@@ -11,5 +11,8 @@ Following : https://noobtuts.com/unity/2d-tetris-game/ , Tutorial , with some tw
   - Setup Line Score
   - Create Score
   - Create HUD
+
+# Make Tetrominos
+
 
 Last Edit > 26/03/2021
