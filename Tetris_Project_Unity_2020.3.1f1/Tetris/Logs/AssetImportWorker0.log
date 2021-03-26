@@ -1,0 +1,2005 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'pt' Physical Memory: 8147 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Github/Unity_Tetris_Project/Tetris_Project/Tetris_Project_Unity_2020.3.1f1/Tetris
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51212
+Successfully changed project path to: D:/Github/Unity_Tetris_Project/Tetris_Project/Tetris_Project_Unity_2020.3.1f1/Tetris
+D:/Github/Unity_Tetris_Project/Tetris_Project/Tetris_Project_Unity_2020.3.1f1/Tetris
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 50.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/Unity_Tetris_Project/Tetris_Project/Tetris_Project_Unity_2020.3.1f1/Tetris/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   
+    VRAM:     959 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001448 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.943 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000963 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 3.484900 ms (FindLiveObjects: 0.467200 ms CreateObjectMapping: 0.311800 ms MarkObjects: 2.531900 ms  DeleteObjects: 0.172600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Bordas.prefab
+  artifactKey: Guid(e910723590ba72b4ebeea755e1cbbf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bordas.prefab using Guid(e910723590ba72b4ebeea755e1cbbf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0acf6049a720fffa34f3595cb9d9397b') in 0.152868 seconds
+  Import took 0.157312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.522477 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(64f152dff793fa740afcdbdadca385ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(64f152dff793fa740afcdbdadca385ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b78dc903f330c95f717ab21cb3f148') in 0.009161 seconds
+  Import took 0.042731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.075115 seconds.
+  path: Assets/Tetrominos
+  artifactKey: Guid(64f152dff793fa740afcdbdadca385ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos using Guid(64f152dff793fa740afcdbdadca385ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b395c02d106e7e673e57585e244f750f') in 0.008412 seconds
+  Import took 0.012695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.591915 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3823d833d8b065b2a97ea2649c8882') in 0.023864 seconds
+  Import took 0.044848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.674672 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900b06a61f2cc0585002faa497af1422') in 0.016640 seconds
+  Import took 0.034973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.593152 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93454c092d4e6204b83b161cbbeda8eb') in 0.015200 seconds
+  Import took 0.033950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.356907 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ec43b0de114ea2f61d7f1f010cfb6c') in 0.013362 seconds
+  Import took 0.019616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.971527 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b0a45028326db47a106375c79f772f') in 0.021194 seconds
+  Import took 0.044496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.926475 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b568952cce5bd6454ede6c1e4d2d00') in 0.014376 seconds
+  Import took 0.019401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.357470 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf475e05791cbdc9f25b82837f2d9db6') in 0.021379 seconds
+  Import took 0.027042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.270514 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6047615d1792307d1392d640cfb2eb') in 0.022340 seconds
+  Import took 0.042300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002325 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6047615d1792307d1392d640cfb2eb') in 0.011657 seconds
+  Import took 0.016502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.669678 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735742b3b979313a95daed41af88a1f0') in 0.012882 seconds
+  Import took 0.018606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005053 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735742b3b979313a95daed41af88a1f0') in 0.012453 seconds
+  Import took 0.018267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126196 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86d5cf422f17d493a5cbd8341beda03') in 0.013778 seconds
+  Import took 0.021212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.201989 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae571a7467488cf6b797fbbdc9ebaf9') in 0.013975 seconds
+  Import took 0.018528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.990160 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c19767113558e39b1cf560ffa4777c') in 0.012730 seconds
+  Import took 0.018463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005402 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c19767113558e39b1cf560ffa4777c') in 0.013582 seconds
+  Import took 0.018852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130558 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170d43eaff189d10647f87c609f54427') in 0.012247 seconds
+  Import took 0.018065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004949 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '170d43eaff189d10647f87c609f54427') in 0.012595 seconds
+  Import took 0.017718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.158492 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9df37c8a2e04fe599d14a542762467') in 0.012118 seconds
+  Import took 0.017247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.454460 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc99893b5d5d658b9dba622105d50105') in 0.020220 seconds
+  Import took 0.024974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.573001 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed2ff82197f25a55858d626933febfe') in 0.024072 seconds
+  Import took 0.029630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.557470 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe121696148cce3978029af26a72bc5') in 0.020982 seconds
+  Import took 0.026234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.983061 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ce68ba99d160ce87cc50b3c66d41c7') in 0.011197 seconds
+  Import took 0.016579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.768859 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b63264af8ce1cab0b95623e7185231') in 0.011437 seconds
+  Import took 0.016157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.884873 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc5e66eb5c38bd364cd9527018a19b7') in 0.010608 seconds
+  Import took 0.015005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.096463 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(0378c7dce4255514aa6b0f792aa111f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(0378c7dce4255514aa6b0f792aa111f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17bf492dbbb8d6aaa1242bca871dd3d') in 0.008806 seconds
+  Import took 0.013197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.257262 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d049819a0a140a31caa28bbd73aee8c') in 0.028474 seconds
+  Import took 0.034160 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000986 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2260.
+Total: 2.383500 ms (FindLiveObjects: 0.233600 ms CreateObjectMapping: 0.082700 ms MarkObjects: 1.915300 ms  DeleteObjects: 0.150400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000945 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 2.539400 ms (FindLiveObjects: 0.232500 ms CreateObjectMapping: 0.134300 ms MarkObjects: 2.018300 ms  DeleteObjects: 0.152800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 342.430201 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5844ceb7ba4ab07ca787c6f7bc0d4ec9') in 0.006802 seconds
+  Import took 0.010949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.548449 seconds.
+  path: Assets/Scripts/Spawner.cs
+  artifactKey: Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Spawner.cs using Guid(c42faa434c285434f9e7601e031e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5844ceb7ba4ab07ca787c6f7bc0d4ec9') in 0.003470 seconds
+  Import took 0.007460 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 2.490000 ms (FindLiveObjects: 0.257800 ms CreateObjectMapping: 0.090900 ms MarkObjects: 2.001700 ms  DeleteObjects: 0.138300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.769515 seconds.
+  path: Assets/Tetrominos/BlocoI Variant.prefab
+  artifactKey: Guid(b33ab6d7fb4b2384e9f156aabf94ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI Variant.prefab using Guid(b33ab6d7fb4b2384e9f156aabf94ffac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea38c8653c5d94d73c0047e070a3d0a') in 0.079585 seconds
+  Import took 0.083791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.747716 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c129d42240429a08e4c04d316c700e') in 0.017008 seconds
+  Import took 0.038805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.557725 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdde034f6325a313585bfd2e9e0158ed') in 0.018056 seconds
+  Import took 0.022767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.816121 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec5ba6ce60f5534840372ea3403bc62') in 0.019530 seconds
+  Import took 0.024747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.582895 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a748208475f8fb4799d07a05954c73') in 0.019226 seconds
+  Import took 0.024366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.170689 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5469391ade1a8be5f18759a7cd6621') in 0.022294 seconds
+  Import took 0.026783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.390688 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a135369be8ee511b7017a84652e0b258') in 0.017648 seconds
+  Import took 0.022407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.263784 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157aa192f92a812277c975406090b4ac') in 0.016625 seconds
+  Import took 0.024931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.562980 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef183bf38be4b9714a9a54db32f3ccf') in 0.017578 seconds
+  Import took 0.041181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.601117 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f9d5d6cee8f64b6d741c6284d6d2c') in 0.017206 seconds
+  Import took 0.022119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.340940 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a187968179b98596eb5b24bc82c5511') in 0.020534 seconds
+  Import took 0.025822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.197575 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abf58288f1caf4e42e3756071309116') in 0.011475 seconds
+  Import took 0.034747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.487032 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee73c538c8634f75c494598690aa0dea') in 0.016585 seconds
+  Import took 0.030756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.349331 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516b37452b0008d3fd5036adc03a2209') in 0.018376 seconds
+  Import took 0.023011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.243264 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd19a522071d81394b6085240863ba0') in 0.018119 seconds
+  Import took 0.036623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.055587 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79809370e903ab13515efbe0deea0c2a') in 0.020534 seconds
+  Import took 0.038840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.979378 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '853cf44372fe82a5835c9efc9e10e2a4') in 0.038031 seconds
+  Import took 0.042968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.592356 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6d593a81b61a9bdd33cf9328f752a8') in 0.020052 seconds
+  Import took 0.038443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.381809 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4d84b2e6c442474e92731184a47545') in 0.017244 seconds
+  Import took 0.039973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.556573 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be85c60c30ea9477969ecb3e451b1ac9') in 0.016939 seconds
+  Import took 0.022162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.223091 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40c2f27760d801236d10b5dbed57970') in 0.019210 seconds
+  Import took 0.024287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.624166 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789ec982f36763c96ecce139a43867ad') in 0.017643 seconds
+  Import took 0.023429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.796939 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4869866f273a4b5eb3a51e2f11082f53') in 0.015557 seconds
+  Import took 0.029632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.285353 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9837ef374b35e047b426122d2d355ba') in 0.039024 seconds
+  Import took 0.043771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.588145 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f52cc8b20f6010395f8049ef34117a') in 0.017109 seconds
+  Import took 0.022648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.401997 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7816d3da70c541bc4dea1d51900ec837') in 0.017178 seconds
+  Import took 0.021882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.362065 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddd7b453ef1ea259d35db47a74e3fdc') in 0.018707 seconds
+  Import took 0.035643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.386625 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11b7fe8b3af0994a48f1e6327e9c507') in 0.020088 seconds
+  Import took 0.024623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.786396 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487e3484e9404d43334715ab9671c39e') in 0.018526 seconds
+  Import took 0.023242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.657038 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6534331e13042656d2d426f219756460') in 0.017684 seconds
+  Import took 0.025206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.976041 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae82568172f24d97f2754c5ebfdf1576') in 0.017558 seconds
+  Import took 0.037650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.743019 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94235d39f4b222dd672e22a15d027135') in 0.036862 seconds
+  Import took 0.060482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.738171 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1370f295fa14c8aed2fb5a8fa162b44c') in 0.016909 seconds
+  Import took 0.021921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.247898 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0727809a77f37e127089ec4b8602c0d3') in 0.017368 seconds
+  Import took 0.051956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.944491 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc6de30c2c17dfa8c9ff2919dfa6a05') in 0.018801 seconds
+  Import took 0.023925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.249608 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa17ef7c00623ea8181765eb63504f3') in 0.018940 seconds
+  Import took 0.024178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.004358 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3d19bdddaf814963c3135f0433e13b') in 0.018294 seconds
+  Import took 0.026431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.679661 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782676adcc8cff22024bf494ff4e5843') in 0.016578 seconds
+  Import took 0.020964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.592265 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b984a5bbf490a2984e62d3129ca565d1') in 0.016928 seconds
+  Import took 0.028657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.824468 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752fca55c5dc202b6f0921a8517bb6eb') in 0.019841 seconds
+  Import took 0.041317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.607759 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b55f33961aa110f0fd1aa1881d9330') in 0.017960 seconds
+  Import took 0.022776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.197451 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aba913da5929bb399ea931705df250c') in 0.013000 seconds
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.560347 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cdba00b839ddae84139ae3a635f1b2') in 0.033770 seconds
+  Import took 0.038727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.338057 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1302220f8c7644557e7d7f1cb83f79') in 0.033089 seconds
+  Import took 0.055184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.973946 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac73401eddd8c569521e5064ae66d6d') in 0.021473 seconds
+  Import took 0.026464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.769807 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f351bba28afdcecff8a6156a0537abd') in 0.017859 seconds
+  Import took 0.039383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.787996 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c24876df31f9e23927ec3a8536a9289') in 0.017383 seconds
+  Import took 0.038165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.658895 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacb3eab55f68a19a7746ef41729aab9') in 0.026549 seconds
+  Import took 0.032410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120276 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be0ad36211a13e051579895a4116041') in 0.017226 seconds
+  Import took 0.021975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.391343 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b63ba710af63e93d57f8f5bf12739e') in 0.018759 seconds
+  Import took 0.041130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.815181 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52d777e393ee6d47c0dd3a546987e39') in 0.016791 seconds
+  Import took 0.040768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.583392 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c5968d530e74b868cd5593f5791ec2') in 0.016651 seconds
+  Import took 0.035336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.799719 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ace9c06d497b1562770a0f58e8f299') in 0.015887 seconds
+  Import took 0.020854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.845281 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6488b1c067e398886ed6314acd8c348') in 0.016765 seconds
+  Import took 0.039709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.143404 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b6c1c8ca1e6d80ca5cd74883131fc8') in 0.016729 seconds
+  Import took 0.022462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.427363 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8cbf03709ae43e2dcced3f24d1f3216') in 0.018535 seconds
+  Import took 0.023388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.610639 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf05ae6624d9ec66672cb3bdc52b7d98') in 0.017860 seconds
+  Import took 0.022943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.811680 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a875d9d8a8e0e5f0995915d79a7c78') in 0.018144 seconds
+  Import took 0.024904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.969515 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d346241d2ee4f0cf272df3a0c05ad1') in 0.030293 seconds
+  Import took 0.037306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.036534 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b88aa32c36fc0eadfe30c3ddc81ca6') in 0.019026 seconds
+  Import took 0.023950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.031078 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c605d0798c47af4a5b178340c1052ab2') in 0.022993 seconds
+  Import took 0.028852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.342023 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527a24f2cb3b22c3ab75ec2d491f3a1b') in 0.018571 seconds
+  Import took 0.023763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.595100 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6222da73be3c4e331083acf821b929') in 0.018756 seconds
+  Import took 0.023980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.633097 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fd400e0eae13a9b5df131c329ea911') in 0.019262 seconds
+  Import took 0.024251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.175092 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb9875dcbf818d0a5c494b000d60be5') in 0.016997 seconds
+  Import took 0.021868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.021392 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9ff72abb9196262dfe079fec93c6d5') in 0.018053 seconds
+  Import took 0.022998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.201638 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a769ae74b0d47a76280b288abe1266e') in 0.012375 seconds
+  Import took 0.016910 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.077 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.464600 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.083200 ms MarkObjects: 1.985200 ms  DeleteObjects: 0.158300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.166634 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(3d6967c04de87454e842dd9e9abaa0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(3d6967c04de87454e842dd9e9abaa0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca13a9044d81ce79581b27ee5b3457d') in 0.014463 seconds
+  Import took 0.018673 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 3.482100 ms (FindLiveObjects: 0.714600 ms CreateObjectMapping: 0.200500 ms MarkObjects: 2.415100 ms  DeleteObjects: 0.150300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000998 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.124 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 2.598700 ms (FindLiveObjects: 0.254100 ms CreateObjectMapping: 0.080900 ms MarkObjects: 2.090500 ms  DeleteObjects: 0.171300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.525796 seconds.
+  path: Assets/Scripts/Playfield.cs
+  artifactKey: Guid(bd22dd1483564c7498c1b2cecbaaf582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Playfield.cs using Guid(bd22dd1483564c7498c1b2cecbaaf582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc804823e97ac72537e313edd07138b0') in 0.021451 seconds
+  Import took 0.026232 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2286.
+Total: 2.455100 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.085000 ms MarkObjects: 1.977000 ms  DeleteObjects: 0.154500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.772900 ms (FindLiveObjects: 0.302600 ms CreateObjectMapping: 0.084100 ms MarkObjects: 2.224100 ms  DeleteObjects: 0.160700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3862.551552 seconds.
+  path: Assets/Scripts/Playfield.cs
+  artifactKey: Guid(bd22dd1483564c7498c1b2cecbaaf582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Playfield.cs using Guid(bd22dd1483564c7498c1b2cecbaaf582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f0c3004f97937e222c417f966f26d8') in 0.006845 seconds
+  Import took 0.018107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.822994 seconds.
+  path: Assets/Scripts/Group.cs
+  artifactKey: Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Group.cs using Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c4729620c6f0d269e60a987eacef64') in 0.012347 seconds
+  Import took 0.024274 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.430 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 2.463700 ms (FindLiveObjects: 0.217400 ms CreateObjectMapping: 0.082800 ms MarkObjects: 2.006200 ms  DeleteObjects: 0.155700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.738300 ms (FindLiveObjects: 0.222600 ms CreateObjectMapping: 0.090500 ms MarkObjects: 2.238600 ms  DeleteObjects: 0.185200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10546.105034 seconds.
+  path: Assets/Scripts/Group.cs
+  artifactKey: Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Group.cs using Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d74e3a94b4ad40f206735210fee05b') in 0.007487 seconds
+  Import took 0.022839 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001162 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.060900 ms (FindLiveObjects: 0.385800 ms CreateObjectMapping: 0.092300 ms MarkObjects: 2.424000 ms  DeleteObjects: 0.157100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.257602 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a412e6f1ac5e31499e5d31aed34d0630') in 0.097128 seconds
+  Import took 0.101686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648a02686edb2e5322be76a45ffc1af4') in 0.027731 seconds
+  Import took 0.045249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '417b979c6c6b5d3aee007fdb2f0752c0') in 0.029965 seconds
+  Import took 0.034239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b99e0bcbe26d638a315d005bec59e1') in 0.038501 seconds
+  Import took 0.042763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf42f8c0eac0180a113c2135399e1606') in 0.021463 seconds
+  Import took 0.026049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263d36a550b2b1bdae458472ac8f004b') in 0.025805 seconds
+  Import took 0.030534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3173d659652adaf9e4730d3ccc07f3a4') in 0.041894 seconds
+  Import took 0.046235 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 2.558400 ms (FindLiveObjects: 0.291600 ms CreateObjectMapping: 0.100300 ms MarkObjects: 2.006500 ms  DeleteObjects: 0.158700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000883 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 2.429800 ms (FindLiveObjects: 0.223100 ms CreateObjectMapping: 0.084300 ms MarkObjects: 1.955100 ms  DeleteObjects: 0.165800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 4.287900 ms (FindLiveObjects: 0.316800 ms CreateObjectMapping: 0.156700 ms MarkObjects: 3.572900 ms  DeleteObjects: 0.239300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 3.432600 ms (FindLiveObjects: 0.432400 ms CreateObjectMapping: 0.237700 ms MarkObjects: 2.612900 ms  DeleteObjects: 0.148400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.131 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 2.437400 ms (FindLiveObjects: 0.275800 ms CreateObjectMapping: 0.086600 ms MarkObjects: 1.912900 ms  DeleteObjects: 0.160900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 2.810400 ms (FindLiveObjects: 0.286400 ms CreateObjectMapping: 0.085200 ms MarkObjects: 2.283900 ms  DeleteObjects: 0.153800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000930 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.121 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2332.
+Total: 2.553800 ms (FindLiveObjects: 0.210100 ms CreateObjectMapping: 0.079900 ms MarkObjects: 2.116700 ms  DeleteObjects: 0.145700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 2.674900 ms (FindLiveObjects: 0.300500 ms CreateObjectMapping: 0.083000 ms MarkObjects: 2.144400 ms  DeleteObjects: 0.146000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 2.670600 ms (FindLiveObjects: 0.258600 ms CreateObjectMapping: 0.092400 ms MarkObjects: 2.169300 ms  DeleteObjects: 0.148900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2344.
+Total: 2.421000 ms (FindLiveObjects: 0.229300 ms CreateObjectMapping: 0.082200 ms MarkObjects: 1.952000 ms  DeleteObjects: 0.156200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001087 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.674000 ms (FindLiveObjects: 0.237900 ms CreateObjectMapping: 0.096300 ms MarkObjects: 2.188800 ms  DeleteObjects: 0.149700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000961 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.963600 ms (FindLiveObjects: 0.243900 ms CreateObjectMapping: 0.086400 ms MarkObjects: 2.421500 ms  DeleteObjects: 0.209800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.428000 ms (FindLiveObjects: 0.204800 ms CreateObjectMapping: 0.081400 ms MarkObjects: 1.978700 ms  DeleteObjects: 0.162000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001194 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 3.095100 ms (FindLiveObjects: 0.383700 ms CreateObjectMapping: 0.112300 ms MarkObjects: 2.412000 ms  DeleteObjects: 0.185400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.513600 ms (FindLiveObjects: 0.301400 ms CreateObjectMapping: 0.083800 ms MarkObjects: 1.965900 ms  DeleteObjects: 0.161100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001033 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.764100 ms (FindLiveObjects: 0.313500 ms CreateObjectMapping: 0.100800 ms MarkObjects: 2.173900 ms  DeleteObjects: 0.174500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001059 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 2.949600 ms (FindLiveObjects: 0.268900 ms CreateObjectMapping: 0.099600 ms MarkObjects: 2.425300 ms  DeleteObjects: 0.154300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000979 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.133 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 2.599900 ms (FindLiveObjects: 0.260700 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.103200 ms  DeleteObjects: 0.145000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.204 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 2.490300 ms (FindLiveObjects: 0.220500 ms CreateObjectMapping: 0.083500 ms MarkObjects: 2.031600 ms  DeleteObjects: 0.153600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 2.602800 ms (FindLiveObjects: 0.265000 ms CreateObjectMapping: 0.083500 ms MarkObjects: 2.106900 ms  DeleteObjects: 0.146000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000976 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2388.
+Total: 2.545700 ms (FindLiveObjects: 0.286300 ms CreateObjectMapping: 0.087600 ms MarkObjects: 2.014100 ms  DeleteObjects: 0.156500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3752.805317 seconds.
+  path: Assets/Scripts/Group.cs
+  artifactKey: Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Group.cs using Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c936d9303478871597db75311c2f021') in 0.014374 seconds
+  Import took 0.043068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003532 seconds.
+  path: Assets/Scripts/Group.cs
+  artifactKey: Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Group.cs using Guid(f93f7d89ef654b0468d6263d0db024ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c936d9303478871597db75311c2f021') in 0.006688 seconds
+  Import took 0.010991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.439688 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e161d35af3c1e4626b66b727494b101e') in 0.121711 seconds
+  Import took 0.139958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dc837c5a12f35789e57d4aefaed4bb') in 0.024032 seconds
+  Import took 0.028179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99279d8c2dcec6d1fd9607ed5dfd19a3') in 0.033365 seconds
+  Import took 0.038246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df2382be17564e29d61953cb0bebba8') in 0.028048 seconds
+  Import took 0.032657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b9fa0d2c9fad2814933a3ee82aafe6c') in 0.025579 seconds
+  Import took 0.030056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9287bd61e7484a9384af7b9386f8302e') in 0.024023 seconds
+  Import took 0.028738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbec76d8459e4a39d5227f42ba495079') in 0.015835 seconds
+  Import took 0.020382 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.108 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 2.499000 ms (FindLiveObjects: 0.225000 ms CreateObjectMapping: 0.082300 ms MarkObjects: 2.034600 ms  DeleteObjects: 0.155800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.078924 seconds.
+  path: Assets/Tetrominos/Game Over.prefab
+  artifactKey: Guid(50a9312fb6dda064b9fc9a008abab65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/Game Over.prefab using Guid(50a9312fb6dda064b9fc9a008abab65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c646c7e71fdbb9afbb4f77e32174d86') in 0.070822 seconds
+  Import took 0.075509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.773603 seconds.
+  path: Assets/Tetrominos/Game Over.prefab
+  artifactKey: Guid(50a9312fb6dda064b9fc9a008abab65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/Game Over.prefab using Guid(50a9312fb6dda064b9fc9a008abab65b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066ab68b16351badf773e8b120fb1cae') in 0.010259 seconds
+  Import took 0.015216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.453160 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51563272a925ec905d32f8d28de8c12b') in 0.053826 seconds
+  Import took 0.058360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19653bc667ab51f1fdc60b960a3254d2') in 0.017039 seconds
+  Import took 0.039344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8331f384b2046cb53f550570a79d5f2') in 0.021962 seconds
+  Import took 0.025846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa391bd45dd233fa488b2fdd73dd243') in 0.013940 seconds
+  Import took 0.017995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc419eaa57d321428e54cab7c271e89') in 0.021248 seconds
+  Import took 0.025794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb1ff8ba9e4f77d31711e97fffec04a') in 0.016908 seconds
+  Import took 0.021253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8dd4c9f4ae10e734e9b7daec8dc7340') in 0.015222 seconds
+  Import took 0.019257 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 2.531300 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.086000 ms MarkObjects: 2.057100 ms  DeleteObjects: 0.161000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000914 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 2.824800 ms (FindLiveObjects: 0.289900 ms CreateObjectMapping: 0.083200 ms MarkObjects: 2.270400 ms  DeleteObjects: 0.180000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.382445 seconds.
+  path: Assets/Tetrominos/BlocoI.prefab
+  artifactKey: Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoI.prefab using Guid(d4dd20e9296acd443adc7b3898c45496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66772938a9193e00187cde7063fe6fbb') in 0.084675 seconds
+  Import took 0.089980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Tetrominos/BlocoT.prefab
+  artifactKey: Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoT.prefab using Guid(ad15c7512a31dd14a9e08ee4cb81a04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0efcf997ae5ae1ca604fa0e38b966187') in 0.015014 seconds
+  Import took 0.020628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Tetrominos/BlocoZ.prefab
+  artifactKey: Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoZ.prefab using Guid(5bbe9bace9620c4439f61aab073a93b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12bf03acb0efca0a13dee8826a060177') in 0.015724 seconds
+  Import took 0.020525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tetrominos/BlocoL.prefab
+  artifactKey: Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoL.prefab using Guid(03c0c20aed2d1534fa0b2691780206f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e701c56711784d61a7718ca07858a47') in 0.016688 seconds
+  Import took 0.038312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tetrominos/BlocoN.prefab
+  artifactKey: Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoN.prefab using Guid(bef98bd1d3077f24082a5d325f3f2dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4782499a37637bcff52ba0ad414e880') in 0.015533 seconds
+  Import took 0.021689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Tetrominos/BlocoJ.prefab
+  artifactKey: Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoJ.prefab using Guid(d2f633aeba3c72c4fb4038b227d7288d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b80f4a3a4aa4951645acffca6a1d95f') in 0.017341 seconds
+  Import took 0.021757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Tetrominos/BlocoO.prefab
+  artifactKey: Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tetrominos/BlocoO.prefab using Guid(11a09c79c516bd84086fc7f42acf9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b026ab59d55ccd45ce230526e716e361') in 0.014999 seconds
+  Import took 0.019448 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 2.484800 ms (FindLiveObjects: 0.237500 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.004200 ms  DeleteObjects: 0.160000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2413.
+Total: 3.492000 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.114500 ms MarkObjects: 2.871600 ms  DeleteObjects: 0.211900 ms)
+
